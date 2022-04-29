@@ -1,6 +1,7 @@
 # ktebi_tounsi
-#project scolaire (PFA)
+# project scolaire (PFA) / 
 *PHP 
 *MYSQL
 *HTML
 *CSS
+*JavaScript
