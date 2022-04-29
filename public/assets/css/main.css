@@ -1,0 +1,42 @@
+/*
+main css file
+*/
+
+.bold {
+  font-weight: bold;
+}
+
+.formCat {
+  display: none;
+}
+
+.showFormCat {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+button > a {
+  color: white !important;
+  text-decoration: none;
+}
+
+textarea {
+  resize: none;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
